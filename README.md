@@ -1,7 +1,7 @@
 <h1 align="center">My very first CV in HTML&CSS</h1>
 <h3 align="center">I took the opportunity to make this to help me understand and code what i have learned through the first month of the beginning of my adventures with O'clock</h3>
 
-- ⚡ Fun fact **I made the same one in a simple page without HTML&CSS**
+- ⚡ Fun fact **I have made the same one in a simple page without HTML&CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
